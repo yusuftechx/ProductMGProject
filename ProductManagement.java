@@ -14,7 +14,7 @@ public class ProductManagement {
         JLabel productIdLabel = createLabel("Product ID:", 16, 30, 60, 100, 30, Font.PLAIN, null);
         JLabel productNameLabel = createLabel("Product Name:", 16, 30, 100, 100, 30, Font.PLAIN, null);
         JLabel productPriceLabel = createLabel("Product Price:", 16, 30, 140, 100, 30, Font.PLAIN, null);
-        JLabel productQtyLabel = createLabel("Product Quantity:", 16, 30, 180, 100, 30, Font.PLAIN, null);
+        JLabel productQtyLabel = createLabel("Product Qty:", 16, 30, 180, 100, 30, Font.PLAIN, null);
         JLabel copyrightLabel = createLabel("Copyright © Yusuf Agbeleshola", 16, 110, 310, 300, 30, Font.ITALIC, Color.BLUE);
 
         // Create text fields
