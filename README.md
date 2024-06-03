@@ -4,7 +4,7 @@
     <p>This code is a simple graphical user interface (GUI) application for managing products.</p>
     <h2>Features:</h2>
     <ul>
-      <li>A title label at the top of the frame</li>
+      <li>A title at the top of the frame</li>
       <li>Four labels and text fields for entering product information (ID, name, price, and quantity)</li>
       <li>Four buttons for performing actions (add, update, delete, and search)</li>
       <li>A copyright label at the bottom of the frame</li>
