@@ -1,17 +1,29 @@
-<h3>This code is a straightforward graphical user interface (GUI) application for managing products.</h3>
-<p> <b>The application features a main frame with several components:</b></p>
-
-<p>- A title label at the top</p>
-<p>- Four labels and text fields for entering product information (ID, name, price, quantity)</p>
-<p>- Four buttons for performing actions (add, update, delete, search)</p>
-<p>- A copyright label at the bottom</P>
-
-<p>It utilizes JFrame for the main frame, JLabel for text labels, JTextField for data entry 
-  fields, and JButton for action buttons. The code defines three methods: createLabel() to 
-  create a label with specified text, font, and color, createTextField() to create a text 
-  field with specified bounds, and createButton()to create a button with specified text, 
-  bounds, and colors. The frame is set up, components are added,and it exits the application 
-  on close.</p>
+<html>
+  <body>
+    <h1>Product Management Application</h1>
+    <p>This code is a simple graphical user interface (GUI) application for managing products.</p>
+    <h2>Features:</h2>
+    <ul>
+      <li>A title label at the top of the frame</li>
+      <li>Four labels and text fields for entering product information (ID, name, price, and quantity)</li>
+      <li>Four buttons for performing actions (add, update, delete, and search)</li>
+      <li>A copyright label at the bottom of the frame</li>
+    </ul>
+    <h2>Components:</h2>
+    <ul>
+      <li><code>JFrame</code>: Used to create the main application frame.</li>
+      <li><code>JLabel</code>: Used to create labels for displaying text.</li>
+      <li><code>JTextField</code>: Used to create text fields for entering data.</li>
+      <li><code>JButton</code>: Used to create buttons for performing actions.</li>
+    </ul>
+    <h2>Methods:</h2>
+    <ul>
+      <li><code>createLabel()</code>: Creates a label with the specified text, font, and color.</li>
+      <li><code>createTextField()</code>: Creates a text field with the specified bounds.</li>
+      <li><code>createButton()</code>: Creates a button with the specified text, bounds, and colors.</li>
+    </ul>
+  </body>
+</html>
   
 <b> Product Management Application Output Illustration</b>
 
